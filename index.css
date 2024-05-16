@@ -26,8 +26,17 @@ img {
     padding: 5px;
     font-size: 210%;
     text-align: center;
+    animation-name: anime;
+    animation-duration: 3s;
 }
 
+@keyframes anime {
+    0% {opacity: 0;}
+    25% {opacity: 0.25;}
+    50% {opacity: 0.5;}
+    75% {opacity: 0.75;}
+    100% {opacity: 1;}
+}
 
 li {
     float: left;
