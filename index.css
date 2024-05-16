@@ -63,7 +63,7 @@ li a:hover {
     background-color: gray;
 }
 
-@media screen and (max-width:500px)
+@media screen and (max-width:480px)
 {
     li a {
         padding: 10px 70px 30px;
