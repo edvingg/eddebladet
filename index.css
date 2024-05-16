@@ -70,9 +70,11 @@ li a:hover {
         width: 600px;
     }
 
-    .menu {
-        padding: 100px;
+       ul {
+        margin: 1;
+        padding: 1;
     }
+    
     
     .rubrik {
         text-align: center;
